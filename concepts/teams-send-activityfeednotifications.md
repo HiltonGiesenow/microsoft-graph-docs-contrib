@@ -852,7 +852,6 @@ Users can click **Edit** next to an app and customize the notifications, as show
 The target user must have the Teams app that is sending notifications installed.
 
 ### Can a user send notifications to themselves?
-``
 
 No, a user can't send notifications to themselves. For this scenario, use application permissions.
 
